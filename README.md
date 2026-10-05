@@ -25,13 +25,14 @@ Analisar o desempenho das vendas e identificar padrões relacionados a faturamen
 
 ## Principais Indicadores
 
-- **Faturamento total:** R$ 2.252.607,41
+- **Faturamento total:** US$ 2.252.607,41
 - **Quantidade de pedidos:** 4.916
-- **Ticket médio:** R$ 458,22
+- **Ticket médio:** US$ 458,22
 
 ## Dashboard
 
 🚧 Dashboard em desenvolvimento no Power BI.
+![Dashboard de Análise de Vendas](images/dashboard_vendas.png)
 
 ## Estrutura do Projeto
 
