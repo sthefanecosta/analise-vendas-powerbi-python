@@ -31,7 +31,6 @@ Analisar o desempenho das vendas e identificar padrões relacionados a faturamen
 
 ## Dashboard
 
-🚧 Dashboard em desenvolvimento no Power BI.
 ![Dashboard de Análise de Vendas](images/dashboard_vendas.png)
 
 ## Estrutura do Projeto
